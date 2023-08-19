@@ -8,53 +8,32 @@ body {
 }
 .story {
     text-align: center;
-    background-color: rgb(88, 90, 206);
-    margin-left: 50px;
-    margin-right: 50px;
-    padding: 25px;
-    font-size: 25px;
+    margin-right: 25px;
     max-width: 1200px; width: 100%;
 }
 .enj {
     text-align: center;
-    background-color: rgb(88, 90, 206);
-    margin-left: 50px;
-    margin-right: 50px;
-    margin-top: -25px;
-    padding: 25px;
     text-transform: uppercase;
     max-width: 1200px; width: 100%;
 }
 .tans {
-    margin-left: 150px;
     max-width: 1200px; width: 100%;
 }
 .tans1 {
     text-align: center;
-    background-color: rgb(172, 157, 157);
-    margin-left: 100px;
-    margin-right: 100px;
-    margin-top: 100px;
-    margin-bottom: 0px;
-    padding: 20px;
-    font-size: 25px;
     max-width: 1200px; width: 100%;
 }
 .karla {
     text-align: center;
-    background-color: rgb(88, 90, 206);
-    margin-left: 50px;
-    margin-right: 50px;
-    padding: 25px;
-    font-size: 40px;
     max-width: 1200px; width: 100%;
 }
 footer {
     background-color: rgb(184, 17, 17);
-    padding: 5px;
     text-align: center;
-    margin-left: 150px;
-    margin-right: 150px;
-    margin-top: 25px;
     max-width: 1200px; width: 100%;
+}
+
+.story, .tans, .tans1, .karla, .footer, .enj {
+    padding: 5px;
+    font-size: 38px;
 }
