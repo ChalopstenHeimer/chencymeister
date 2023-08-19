@@ -4,6 +4,7 @@ body {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    max-width: 800px;
 }
 .story {
     text-align: center;
