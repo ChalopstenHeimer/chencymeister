@@ -13,6 +13,7 @@ body {
     margin-right: 175px;
     padding: 25px;
     font-size: 75px;
+    border: 100px;
 }
 .enj {
     text-align: center;
@@ -22,9 +23,11 @@ body {
     margin-top: -75px;
     padding: 25px;
     text-transform: uppercase;
+    border: 100px;
 }
 .tans {
     margin-left: 595px;
+    border: 100px;
     
 }
 .tans1 {
@@ -36,6 +39,7 @@ body {
     margin-bottom: 0px;
     padding: 40px;
     font-size: 60px;
+    border: 100px;
 }
 .karla {
     text-align: center;
@@ -44,6 +48,7 @@ body {
     margin-right: 175px;
     padding: 25px;
     font-size: 75px;
+    border: 100px;
 }
 footer {
     background-color: rgb(184, 17, 17);
@@ -52,4 +57,5 @@ footer {
     margin-left: 700px;
     margin-right: 700px;
     margin-top: 75px;
+    border: 100px;
 }
