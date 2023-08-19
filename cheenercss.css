@@ -4,6 +4,7 @@ body {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    max-width: 1200px; width: 100%;
 }
 .story {
     text-align: center;
@@ -12,6 +13,7 @@ body {
     margin-right: 175px;
     padding: 25px;
     font-size: 75px;
+    max-width: 1200px; width: 100%;
 }
 .enj {
     text-align: center;
@@ -21,10 +23,11 @@ body {
     margin-top: -75px;
     padding: 25px;
     text-transform: uppercase;
+    max-width: 1200px; width: 100%;
 }
 .tans {
     margin-left: 595px;
-    
+    max-width: 1200px; width: 100%;
 }
 .tans1 {
     text-align: center;
@@ -35,6 +38,7 @@ body {
     margin-bottom: 0px;
     padding: 40px;
     font-size: 60px;
+    max-width: 1200px; width: 100%;
 }
 .karla {
     text-align: center;
@@ -43,6 +47,7 @@ body {
     margin-right: 175px;
     padding: 25px;
     font-size: 75px;
+    max-width: 1200px; width: 100%;
 }
 footer {
     background-color: rgb(184, 17, 17);
@@ -51,4 +56,5 @@ footer {
     margin-left: 700px;
     margin-right: 700px;
     margin-top: 75px;
+    max-width: 1200px; width: 100%;
 }
