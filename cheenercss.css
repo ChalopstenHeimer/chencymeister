@@ -1,29 +1,13 @@
 body {
-    background: url(fatty3.jpg) no-repeat center center fixed; 
-    -webkit-background-size: auto;
-    -moz-background-size: auto;
-    -o-background-size: auto;
-    background-size: auto;
-    border: 200px;
+    
 }
 .story {
     text-align: center;
     background-color: rgb(88, 90, 206);
-    margin-left: 175px;
-    margin-right: 175px;
-    padding: 25px;
-    font-size: 75px;
-    border: 100px;
 }
 .enj {
     text-align: center;
     background-color: rgb(88, 90, 206);
-    margin-left: 175px;
-    margin-right: 175px;
-    margin-top: -75px;
-    padding: 25px;
-    text-transform: uppercase;
-    border: 100px;
 }
 .tans {
     margin-left: 595px;
@@ -33,29 +17,13 @@ body {
 .tans1 {
     text-align: center;
     background-color: rgb(172, 157, 157);
-    margin-left: 595px;
-    margin-right: 572px;
-    margin-top: 75px;
-    margin-bottom: 0px;
-    padding: 40px;
-    font-size: 60px;
-    border: 100px;
 }
 .karla {
     text-align: center;
     background-color: rgb(88, 90, 206);
-    margin-left: 175px;
-    margin-right: 175px;
-    padding: 25px;
-    font-size: 75px;
-    border: 100px;
 }
 footer {
     background-color: rgb(184, 17, 17);
     padding: 5px;
     text-align: center;
-    margin-left: 700px;
-    margin-right: 700px;
-    margin-top: 75px;
-    border: 100px;
 }
